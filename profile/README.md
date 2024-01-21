@@ -1,3 +1,7 @@
 # Rô Code
+> Ro-Codesx -
 
-<p>Rô code - </p>
+__Autor:__ @RPZIMK-K (_Rodrigo Pinheiro Pantoja_)
+
+
+<img width="600" src="../Logo Rô Code.png">
